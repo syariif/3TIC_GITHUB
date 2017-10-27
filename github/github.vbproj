@@ -237,6 +237,7 @@
     </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="GitHubPertama\CobaGithub.aspx" />
+    <Content Include="GitHubPertama\CobaSyariptidur.aspx" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -419,6 +420,13 @@
     </Compile>
     <Compile Include="GitHubPertama\CobaGithub.aspx.vb">
       <DependentUpon>CobaGithub.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="GitHubPertama\CobaSyariptidur.aspx.designer.vb">
+      <DependentUpon>CobaSyariptidur.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GitHubPertama\CobaSyariptidur.aspx.vb">
+      <DependentUpon>CobaSyariptidur.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Global.asax.vb">
